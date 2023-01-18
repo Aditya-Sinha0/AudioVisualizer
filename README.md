@@ -1,1 +1,3 @@
 # AudioVisualizer
+
+[License](LICENSE.md)
