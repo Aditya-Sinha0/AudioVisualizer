@@ -24,5 +24,5 @@ def plot(lst_vals: list):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    averages = get_audio_vals(r"C:\Users\adity\Downloads\liftmefromtheground.mp3")
+    averages = get_audio_vals(r"C:\Users\adity\Downloads\liftmefromtheground.mp3", 48)
     plot(averages)
